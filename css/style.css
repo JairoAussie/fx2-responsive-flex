@@ -1,11 +1,11 @@
-/*div {
-    border: solid black 1px;
+div {
+    /*border: solid black 1px;*/
     margin: 5px;
     padding: 5px;
-}*/
+}
 body {
     margin: 0;
-    background-color: #ff9900;
+    background-color: #2b78e4;
 }
 
 header{
